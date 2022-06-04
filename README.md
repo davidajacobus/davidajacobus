@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidajacobus
 - 👀 I’m interested in learning cross-functional skills
-- 🌱 I’m currently learning Agile and SailsJS
+- 🌱 I’m currently learning Agile and Python
 - 💞️ I’m looking to collaborate on Open Source Business Continuity Solutions
 - 📫 How to reach me https://linkedin.com/in/davidjacobus
 
