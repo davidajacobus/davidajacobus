@@ -7,7 +7,7 @@
 
 ---
 
-I build and scale engineering organizations that ship reliably in environments where failure isn't an option — HIPAA, SOC 2, ISO 27001, and federal VA/DoD programs. Over 20+ years I've led a 250+ person global engineering organization, owned a $35M budget, delivered AI/ML platforms into production, and scaled engineering from startup through acquisition.
+I build and scale engineering organizations that ship reliably in environments where failure isn't an option — HIPAA, SOC 2 Type II, HITRUST, ISO 27001, and federal VA/DoD programs. Over 20+ years I've led a 250+ person global engineering organization, owned a $35M budget, delivered AI/ML platforms into production, and scaled engineering from startup through acquisition.
 
 I stay close to the craft. This profile is where I prototype the practices — especially AI-assisted engineering — that I then roll out across the organizations I lead.
 
@@ -22,7 +22,7 @@ I stay close to the craft. This profile is where I prototype the practices — e
 - **AI in production:** Delivered an AI/ML compliance engine reviewing 2M+ advertising materials, cutting manual review time 70%; led a RAG model that expanded the product offering
 - **Cost:** Reduced operational costs 30% with cloud-native Azure architecture, and delivered 15% budget savings through vendor consolidation without reducing delivery capacity
 - **Delivery:** Raised sprint throughput 30% while cutting production defects 18%; improved delivery predictability 35%; took deployments from hours to minutes
-- **Compliance:** SOC 2 and ISO 27001 maintained with zero major findings across the full engineering organization
+- **Compliance:** Led SOC 2 Type II, HITRUST, and ISO 27001 compliance, with zero major SOC 2 or ISO 27001 audit findings
 - **Talent:** Cut time-to-hire 40% with a global onshore/offshore talent strategy; built management layers and promoted engineers into leadership
 - **Mission-critical:** Engineering for a platform serving 150+ VA Medical Centers and 1M+ behavioral health assessments a year
 
@@ -40,7 +40,7 @@ I stay close to the craft. This profile is where I prototype the practices — e
 ## Career
 
 **NeuroFlow / BHL** — Engineering Leadership *(2025 – Present)*
-Lead engineering across 4 product lines for a federally regulated behavioral health platform serving 150+ VA Medical Centers and DoD-aligned programs.
+Lead engineering for a federally regulated behavioral health platform serving 150+ VA Medical Centers and DoD-aligned programs.
 - Delivered 12 of 14 strategic roadmap milestones in the first six months, along with Year 1 of a major VA contract in full
 - Built the engineering operating model where none existed: 3 teams with clear ownership, a career framework, a sprint process, a release calendar, and a management layer
 - Built incident management from scratch: PagerDuty on-call, escalation policy, After Action Reviews, MTTR tracking, and SLOs in Dynatrace
@@ -97,7 +97,7 @@ Side projects that keep me current on the AI-native delivery model I bring to my
 ```
 Cloud & Platform   Azure · AWS · AKS · Terraform · Azure DevOps · GitHub
 Practices          Platform engineering · DevSecOps · CI/CD · Observability · AI-assisted SDLC
-Compliance         HIPAA · HITECH · SOC 2 · ISO 27001 · ISO 22301 · HITRUST · VA/DoD programs
+Compliance         HIPAA · HITECH · SOC 2 Type II · ISO 27001 · ISO 22301 · HITRUST · VA/DoD programs
 ```
 
 ---
