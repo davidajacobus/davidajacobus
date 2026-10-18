@@ -7,7 +7,7 @@
 
 ---
 
-I build and scale engineering organizations that ship reliably in environments where failure isn't an option — HIPAA, SOC 2, ISO 27001, and federal VA/DoD programs. Over 20+ years I've led global teams of 250+, owned $35M+ engineering budgets, delivered AI/ML platforms into production, and helped take a company from startup through acquisition.
+I build and scale engineering organizations that ship reliably in environments where failure isn't an option — HIPAA, SOC 2, ISO 27001, and federal VA/DoD programs. Over 20+ years I've led a 250+ person global engineering organization, owned a $35M budget, delivered AI/ML platforms into production, and scaled engineering from startup through acquisition.
 
 I stay close to the craft. This profile is where I prototype the practices — especially AI-assisted engineering — that I then roll out across the organizations I lead.
 
@@ -18,12 +18,13 @@ I stay close to the craft. This profile is where I prototype the practices — e
 ## Leadership Impact
 
 - **Scale:** Led a 250+ person global engineering organization across North America, Europe, and APAC with a $35M budget
-- **Exit:** Ten years at SAI360 from startup through acquisition, supporting 5x revenue growth
-- **AI in production:** Delivered an AI/ML compliance engine reviewing 2M+ advertising materials, cutting manual review time by 70% [[TODO: $ or FTE-hours saved / revenue enabled]]
-- **Cloud & cost:** Led an Azure migration that improved performance 40% [[TODO: infrastructure cost savings $ or %]]
-- **Mission-critical delivery:** Platform engineering for 150+ VA Medical Centers processing 1M+ behavioral health assessments a year
-- **Delivery velocity:** [[TODO: e.g., deploy frequency from X to Y, lead time cut by Z%, change failure rate, uptime %]]
-- **People:** [[TODO: e.g., engineers hired, managers/directors developed, attrition or engagement improvement]]
+- **Exit:** Scaled engineering from startup through acquisition, supporting 5x revenue growth over a decade
+- **AI in production:** Delivered an AI/ML compliance engine reviewing 2M+ advertising materials, cutting manual review time 70%; led a RAG model that expanded the product offering
+- **Cost:** Reduced operational costs 30% with cloud-native Azure architecture, and delivered 15% budget savings through vendor consolidation without reducing delivery capacity
+- **Delivery:** Raised sprint throughput 30% while cutting production defects 18%; improved delivery predictability 35%; took deployments from hours to minutes
+- **Compliance:** SOC 2 and ISO 27001 maintained with zero major findings across the full engineering organization
+- **Talent:** Cut time-to-hire 40% with a global onshore/offshore talent strategy; built management layers and promoted engineers into leadership
+- **Mission-critical:** Engineering for a platform serving 150+ VA Medical Centers and 1M+ behavioral health assessments a year
 
 ---
 
@@ -38,27 +39,39 @@ I stay close to the craft. This profile is where I prototype the practices — e
 
 ## Career
 
-**NeuroFlow / BHL** — [[TODO: Title]] *(2025 – Present)*
-Engineering leadership for a federally regulated behavioral health platform serving 150+ VA Medical Centers and DoD-aligned programs, with 1M+ behavioral health assessments processed a year. Built the team structure, sprint process, production support function, and observability practice from the ground up. [[TODO: team size; one measurable result, e.g., MTTR or incident reduction]]
+**NeuroFlow / BHL** — Engineering Leadership *(2025 – Present)*
+Lead engineering across 4 product lines for a federally regulated behavioral health platform serving 150+ VA Medical Centers and DoD-aligned programs.
+- Delivered 12 of 14 strategic roadmap milestones in the first six months, along with Year 1 of a major VA contract in full
+- Built the engineering operating model where none existed: 3 teams with clear ownership, a career framework, a sprint process, a release calendar, and a management layer
+- Built incident management from scratch: PagerDuty on-call, escalation policy, After Action Reviews, MTTR tracking, and SLOs in Dynatrace
+- Restructured a support-heavy team (43% reactive effort) into dedicated production support and engineering teams, based on data
+- Made AI-assisted engineering standard practice, deploying 5 tools into production use
 
 **RegEd** — VP of Engineering *(2023 – 2025)*
-Led a 250+ person global engineering organization across North America, Europe, and APAC and owned a $35M engineering budget. Built and deployed an AI/ML compliance engine that reviews 2M+ advertising materials, reducing manual review time by 70%.
+- Led a 250+ person global organization spanning software, QA, DevOps, architecture, and program management, with a $35M budget
+- Built and deployed an AI/ML compliance engine reviewing 2M+ advertising materials, cutting manual review time 70%; led a RAG model that expanded the product offering
+- Drove trunk-based development and feature flagging: 30% higher throughput, 18% fewer production defects
+- Cut operational costs 30% with cloud-native Azure solutions and delivered 15% budget savings through vendor consolidation
+- Set enterprise architecture standards and established an architecture organization
 
 **NantHealth** — Senior Director of Engineering *(2021 – 2023)*
-Healthcare analytics and clinical workflow products. Led the Azure cloud migration (40% performance improvement), established centralized DevOps, and drove an Agile transformation across multiple teams. [[TODO: team size; release-cycle or cost result]]
+- Led engineering for healthcare analytics and clinical workflow products serving payer and provider ecosystems
+- Migrated legacy systems to Azure, improving performance 40%; built a centralized DevOps function that took deployments from hours to minutes
+- Drove Agile transformation that improved delivery predictability 35%; developed leaders, resulting in 3 internal promotions
 
-**SAI360** — Senior Director of Engineering *(2011 – 2021)*
-Ten-year tenure from startup through acquisition, supporting 5x revenue growth. Built the CI/CD foundation and engineering culture that scaled through the exit. [[TODO: org growth, e.g., grew engineering from X to Y]]
+**SAI360 / Strategic BCP** — Head of Engineering → Senior Director of Engineering *(2011 – 2021)*
+- Scaled engineering from startup through acquisition by SAI360, supporting 5x revenue growth
+- Re-platformed the acquired product onto SAI360's GRC platform within a year of the acquisition
+- Improved release frequency 40%, reduced bug backlog 60%, and cut time-to-market 30% with CI/CD
+- Maintained SOC 2 Type II compliance with zero major findings across all audit cycles
 
-[[TODO: 2006 – 2011 role, or remove this line]]
-
-**Earlier:** Aetna — Software Engineer *(2000 – 2006)*. Enterprise healthcare applications, PHI workflows, and payer operations.
+**Earlier:** Director of IT, Keane *(2010 – 2011)* · Director of IT, LA Weight Loss *(2006 – 2010)* · Software Engineer, Aetna *(2000 – 2006)*: payer operations, claims, and EDI integration
 
 ---
 
 ## Scaling AI-Assisted Engineering
 
-Over the past two years I've made AI-assisted engineering (Claude Code) a standard part of how my teams operate, not a side initiative. I built the first versions myself to prove the value, then rolled them out to the team:
+I've made AI-assisted engineering (Claude Code) a standard part of how my teams operate, not a side initiative. I built the first versions myself to prove the value, then rolled them out:
 
 | Capability | Business outcome |
 |------------|------------------|
@@ -68,22 +81,21 @@ Over the past two years I've made AI-assisted engineering (Claude Code) a standa
 | Shared automation library | Reduced one-off scripting overhead across Python, Groovy, PowerShell, Bash, and SQL |
 | Engineering management tooling | Supported 1:1s, performance tracking, and team health monitoring |
 
-[[TODO: org-level results, e.g., X% of engineers using AI tooling, Y hours/sprint saved, cycle time change]]
-
 ---
 
 ## Currently Building
 
-### [ContinuityCore](https://github.com/davidajacobus/ContinuityCore) [[TODO: confirm link is public, or point to the marketing site]]
+Side projects that keep me current on the AI-native delivery model I bring to my teams. Both are built with Claude Code, with architecture and test-first workflows defined up front.
 
-A Business Continuity Planning (BCP) SaaS platform for small and mid-size businesses, standards-based and anchored to ISO 22301 and NIST SP 800-34. Built API-first with FastAPI, PostgreSQL, and Claude Code. It keeps me current on the modern AI-native delivery model I bring to my teams.
+- **[ContinuityCore](https://davidajacobus.github.io/continuitycore-site/)**: A self-hosted business continuity planning platform for small and mid-size businesses, anchored to ISO 22301 and NIST SP 800-34 (FastAPI, PostgreSQL). It draws on a decade leading engineering for BCP software at Strategic BCP.
+- **[HomeBase](https://github.com/davidajacobus/homebase)**: A private, local-first, cross-platform home management app (Rust, Tauri, React, TypeScript, SQLite).
 
 ---
 
 ## Platforms & Practices
 
 ```
-Cloud & Platform   Azure (primary) · AWS · AKS · Terraform · Azure DevOps · GitHub
+Cloud & Platform   Azure · AWS · AKS · Terraform · Azure DevOps · GitHub
 Practices          Platform engineering · DevSecOps · CI/CD · Observability · AI-assisted SDLC
 Compliance         HIPAA · HITECH · SOC 2 · ISO 27001 · ISO 22301 · HITRUST · VA/DoD programs
 ```
