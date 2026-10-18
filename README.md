@@ -32,6 +32,8 @@ I still build things myself. It keeps my judgment honest, and it's how I figured
 
 ## A Few Tough Calls
 
+Change is always hard. The first time something gets difficult, people want to go back to the old way. My job is to keep everyone pointed at where we're going and keep rowing. I listen to the concerns, but I don't let a rough patch or a loud objection pull us off course.
+
 **Cutting vendor sprawl to one.** Acquisitions had left us with overlapping vendors, each with a senior leader who preferred it. I pulled together the cost, usage, and support data, made the case to leadership, and we consolidated on a single vendor. That was part of a 15% budget savings, and the org became a lot simpler to manage.
 
 **Bringing Agile to teams that didn't want it.** I've introduced sprints in several organizations, and there's always pushback at first. What wins people over isn't the process itself. It's the moment teams become predictable and leadership can see progress without a status meeting. At NantHealth that showed up as a 35% gain in delivery predictability, and at SAI360 as 40% more frequent releases. After that, nobody wanted to go back.
